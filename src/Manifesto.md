@@ -303,7 +303,7 @@ _In three years we will be selling yesterday's innovations_
 * Today's customers are not all comfortable using VMs, a 20 year old technology
 * Today's customers are (mostly) still our customers in three years
 * Today's products don't work together and _that is the biggest problem to solve in the next three years_ because if we don't solve it we can't do anything else.
-  1. move HTTPS config from Nginx to BIG-IP to Volterra
+  1. move HTTPS config from A to B to C (portability between products)
   2. all feature modules on all data planes
   3. shared engineering standards
   4. opinionated reference architecture from app to application  
@@ -313,7 +313,7 @@ _In three years we will *also* be selling simplification_
 
 * Concept to Code as a Service (C2CaaS) 
 
-  Quickly build an app, package that app with an Nginx Unit application server, deploy that app to the Cloud or the Edge with f5
+  Eg., quickly build an app, package that app with an Nginx Unit application server, deploy that app to the Cloud or the Edge with an Operations as a Service SaaS application.
 
 * [Microsoft: The Low Code Revolution](https://youtu.be/JwM9NrePPMc)
 
