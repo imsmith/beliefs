@@ -345,11 +345,11 @@ _In seven years we will be selling tomorrow's innovations_
 
 ### Three time baselines
   
-  ![Framing the Problem](../images/three-timelines.jpg)
+  ![Framing the Problem](../images/three-timelines.JPG)
 
 ### Matrix of Categorical Functions
 
-  ![Matrix of Categories](../images/categorization-matrix.jpg)
+  ![Matrix of Categories](../images/categorization-matrix.JPG)
 
 ### Taxonomy of Levels of Technical Conversations
 
