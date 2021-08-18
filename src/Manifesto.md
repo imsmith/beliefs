@@ -391,7 +391,7 @@ _In seven years we will be selling tomorrow's innovations_
   5. Optimal - finely tuned organization with no low-hanging fruit or obvious flaws in process, product, or politics
   6. Ambient - breathing the air is all it takes to integrate and become highly functional
 
-## Appendix 2 - Doctrine for F5
+## Appendix 2 - Doctrine
 
 ### Antifragile 
 ![Antifragile](../images/antifragile.jpg)
