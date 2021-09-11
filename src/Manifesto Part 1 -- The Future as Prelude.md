@@ -33,7 +33,6 @@
   _Brains do not have economies of scale, or at least not economies of scale in the way that the industrial world has economies of scale._
 
   * [Scaling engineers at Uber from 200 to 2000](https://youtu.be/kb-m2fasdDY)
-  * <iframe width="560" height="315" src="https://www.youtube.com/embed/kb-m2fasdDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Internetworked
 _Telegraph >> Telephone >> Radio >> Telecommunication_
