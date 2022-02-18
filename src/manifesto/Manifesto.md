@@ -20,7 +20,7 @@
 
     The connection between the Motive Capital and the the Emerging Power is more subtle.  Those early masters certainly can gain in the immediate time frame but the real effect of the Emerging Power tends to be felt _in the ability to accumulate and control the next Era's_ Motive Capital -- the Mastery of Finance enables one to own more Machines; Mastery of Culture enables one to have better Applications; etc..
 
-![A historical perspective on power](../images/historical-perspective.png)
+![A historical perspective on power](../../images/historical-perspective.png)
 
 
 
@@ -65,7 +65,7 @@ _Networks of Networks afford tools for building tools_
   
   _Application Delivery is the differentiation of services._ 
 
-  ![network microservices](../images/network-microservices.png)
+  ![network microservices](../../images/network-microservices.png)
 
     * Fairness
     * Robustness
@@ -83,7 +83,7 @@ _Networks of Networks afford tools for building tools_
   
   _Shared, distributed policy is the basis for safe, fast, and predictable application delivery_
 
-  ![unifying policy](../images/unifying-policy.png)
+  ![unifying policy](../../images/unifying-policy.png)
 
 
 The systems model for all commercial access providers – and applicable to commercial hosting/managed services providers, large enterprises, and campus networks
@@ -216,7 +216,7 @@ _What do Computers afford to humans?_
 
 ### Singularity
 
-![The Exponential Growth of Computing](../images/PPTExponentialGrowthof_Computing.jpg)
+![The Exponential Growth of Computing](../../images/PPTExponentialGrowthof_Computing.jpg)
 
 * [CGP Grey: Humans Need Not Apply](https://youtu.be/7Pq-S557XQU)
 * [Kurzgesagt: The Rise of the Machines - Why automation is different this time](https://youtu.be/WSKi8HfcxEk)
@@ -235,7 +235,7 @@ _What do Computers afford to humans?_
 
 * Quality is primarily about eliminating waste
 
-![Eight Kinds of Waste](../images/84cc27cfa1c1017febca17bec95be0c2.jpg)
+![Eight Kinds of Waste](../../images/84cc27cfa1c1017febca17bec95be0c2.jpg)
 
 ### Programmable, Elastic, Virtualized
 
@@ -345,15 +345,15 @@ _In seven years we will be selling tomorrow's innovations_
 
 ### Three time baselines
   
-  ![Framing the Problem](../images/three-timelines.JPG)
+  ![Framing the Problem](../../images/three-timelines.JPG)
 
 ### Matrix of Categorical Functions
 
-  ![Matrix of Categories](../images/categorization-matrix.JPG)
+  ![Matrix of Categories](../../images/categorization-matrix.JPG)
 
 ### Taxonomy of Levels of Technical Conversations
 
-  ![Taxonomy of Technical Conversations](../images/taxonomy-tech-conv-matrix.png)
+  ![Taxonomy of Technical Conversations](../../images/taxonomy-tech-conv-matrix.png)
 
 #### *LEVELS*
   * A - PRODUCTIZATION: Delivering Customer Value to create profit. 
@@ -375,11 +375,11 @@ _In seven years we will be selling tomorrow's innovations_
 
 ### Maslow's Hierarchy of Needs
   
-  ![Maslow's heirachy of needs](../images/f2295d1dea9609a3d56bcdba11b8d4b7.jpg)
+  ![Maslow's heirachy of needs](../../images/f2295d1dea9609a3d56bcdba11b8d4b7.jpg)
   
 ### Maturity Models
   
-  ![Generic Maturity Model](../images/maturity-model.png)
+  ![Generic Maturity Model](../../images/maturity-model.png)
 
   Generic Maturity Model:
 
@@ -394,22 +394,22 @@ _In seven years we will be selling tomorrow's innovations_
 ## Appendix 2 - Doctrine
 
 ### Antifragile 
-![Antifragile](../images/antifragile.jpg)
+![Antifragile](../../images/antifragile.jpg)
 * Resiliency doesn't scale
 * Availability at scale is really adaptability
 * _Getting stronger because of systemic stressors is the acme of "Availability"_
 ### The Box
-![The Box](../images/the-box.jpg)
+![The Box](../../images/the-box.jpg)
 * Commoditization radically alters everything
 * Standard containers means you don't care what's inside
 * _The conveyance of fungible containers for inconsequential contents is the acme of "Fast"_
 ### Trillions
-![Trillions](../images/trillions.jpg)
+![Trillions](../../images/trillions.jpg)
 * We are thinking too small about the Internet of Things
 * Design matters a lot more when there is no interface
 * _Cutting away the overhead is the acme of "Scale"_
 ### Liars and Outliers
-![Liars and Outliers](../images/liars-and-outliers.orig.jpg)
+![Liars and Outliers](../../images/liars-and-outliers.orig.jpg)
 * Trust is a social problem
 * Secure (and safe) are states in a social "state machine"
 * _Ascertaining trustworthiness is the acme of "Secure"_

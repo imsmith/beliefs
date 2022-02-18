@@ -2,15 +2,15 @@
 
 ### Three time baselines
   
-  ![Framing the Problem](../images/three-timelines.JPG)
+  ![Framing the Problem](../../images/three-timelines.JPG)
 
 ### Matrix of Categorical Functions
 
-  ![Matrix of Categories](../images/categorization-matrix.JPG)
+  ![Matrix of Categories](../../images/categorization-matrix.JPG)
 
 ### Taxonomy of Levels of Technical Conversations
 
-  ![Taxonomy of Technical Conversations](../images/taxonomy-tech-conv-matrix.png)
+  ![Taxonomy of Technical Conversations](../../images/taxonomy-tech-conv-matrix.png)
 
 #### *LEVELS*
   * A - PRODUCTIZATION: Delivering Customer Value to create profit. 
@@ -32,11 +32,11 @@
 
 ### Maslow's Hierarchy of Needs
   
-  ![Maslow's heirachy of needs](../images/f2295d1dea9609a3d56bcdba11b8d4b7.jpg)
+  ![Maslow's heirachy of needs](../../images/f2295d1dea9609a3d56bcdba11b8d4b7.jpg)
   
 ### Maturity Models
   
-  ![Generic Maturity Model](../images/maturity-model.png)
+  ![Generic Maturity Model](../../images/maturity-model.png)
 
   Generic Maturity Model:
 

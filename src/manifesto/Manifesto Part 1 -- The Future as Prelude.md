@@ -20,7 +20,7 @@
 
     The connection between the Motive Capital and the the Emerging Power is more subtle.  Those early masters certainly can gain in the immediate time frame but the real effect of the Emerging Power tends to be felt _in the ability to accumulate and control the next Era's_ Motive Capital -- the Mastery of Finance enables one to own more Machines; Mastery of Culture enables one to have better Applications; etc..
 
-![A historical perspective on power](../images/historical-perspective.png)
+![A historical perspective on power](../../images/historical-perspective.png)
 
 
 
@@ -64,7 +64,7 @@ _Networks of Networks afford tools for building tools_
   
   _Application Delivery is the differentiation of services._ 
 
-  ![network microservices](../images/network-microservices.png)
+  ![network microservices](../../images/network-microservices.png)
 
     * Fairness
     * Robustness
@@ -82,7 +82,7 @@ _Networks of Networks afford tools for building tools_
   
   _Shared, distributed policy is the basis for safe, fast, and predictable application delivery_
 
-  ![unifying policy](../images/unifying-policy.png)
+  ![unifying policy](../../images/unifying-policy.png)
 
 
 The systems model for all commercial access providers – and applicable to commercial hosting/managed services providers, large enterprises, and campus networks
@@ -215,7 +215,7 @@ _What do Computers afford to humans?_
 
 ### Singularity
 
-![The Exponential Growth of Computing](../images/PPTExponentialGrowthof_Computing.jpg)
+![The Exponential Growth of Computing](../../images/PPTExponentialGrowthof_Computing.jpg)
 
 * [CGP Grey: Humans Need Not Apply](https://youtu.be/7Pq-S557XQU)
 * [Kurzgesagt: The Rise of the Machines - Why automation is different this time](https://youtu.be/WSKi8HfcxEk)
@@ -234,7 +234,7 @@ _What do Computers afford to humans?_
 
 * Quality is primarily about eliminating waste
 
-![Eight Kinds of Waste](../images/84cc27cfa1c1017febca17bec95be0c2.jpg)
+![Eight Kinds of Waste](../../images/84cc27cfa1c1017febca17bec95be0c2.jpg)
 
 ### Programmable, Elastic, Virtualized
 
