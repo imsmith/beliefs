@@ -1,0 +1,9 @@
+# The only safe computer
+
+The only safe computer is a computer that has no electricity.  the rest of the time you are just counting on probability to be on your side, which is an inherently horrible strategy to manage risk because it conveys the illusion of safety while also affording zero agency in that safety.   ex:  We probably won't be hit by an extinction level asteroid, so that feels safe, but if there is an extinction level asteroid on its way, there is nothing we can do about it, so we have no agency.   ==> You probably won't have your brain locked by ransom ware, but if you do there is nothing you can do about it.
+
+
+...
+
+ 
+But part of the problem with tech companies in general is that they don't actually have to exist. and i think everyone knows it, like in their soul. tech, particularly silicon valley tech, is not actually valuable in any intrinsic way, and so if the internet were to suddenly vanish, and everyone who knows how to build an internet vanished too, life would go on. worse for some, better for some, but on average, just about the same. I thought that episode kind of hammered that home with the running gag about how tech company execs were always saying their companies were "making the world a better place". it's a lie, of course, and they just want to get and stay rich and powerful. But to get other people to work for them, they have to get them to simultaneously know it is a lie and believe the lie because they think it will make them rich and powerful, too. And I think that what the last two years have really done is move "rich and powerful" from a place of honor to a place of shame, which really screws up the social model of tech companies. And PMs don't -- an maybe can't -- get this.
